@@ -84,7 +84,7 @@ for i in range(0,9):
 ### ORIGINAL IMAGE:
 ![output](op1.png)
 
-### GLOBAL  THRESHOLDING:
+### GLOBAL THRESHOLDING:
 ![output](op2.png)
 ![output](op3.png)
 ![output](op4.png)
@@ -95,7 +95,7 @@ for i in range(0,9):
 ![output](op8.png)
 ![output](op9.png)
 
-### OPTIMUM Global THRESHOLDING USING OTSU'S METHOD:
+### OPTIMUM GLOBAL THRESHOLDING USING OTSU'S METHOD:
 ![output](op7.png)
 
 ## RESULT:
