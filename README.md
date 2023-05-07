@@ -100,4 +100,3 @@ for i in range(0,9):
 
 ## RESULT:
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
-
