@@ -33,7 +33,6 @@ REG.NO:212221230072
 */
 ```
 
-```
 # Load the necessary packages
 ```
 import numpy as np
@@ -83,7 +82,6 @@ for i in range(0,9):
     plt.imshow(cv2.cvtColor(images[i],cv2.COLOR_BGR2RGB))
     plt.axis("off")
     plt.show()
-```
 ```
 
 ## OUTPUT:
